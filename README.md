@@ -30,13 +30,14 @@ nvm install --lts          "EU USO A V18.20 --LTS"
 OU PODEM VISITAR ESSE SITE: https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm
 
 2. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone esse repositorio.
+no terminal vá até o diretório exercicio_string
 cd exercicio_strings
 OU
 faça um fork
 
-
-3. Inicialize o projeto (caso necessário)
+3. Inicialize o projeto: 
+Se o arquivo package.json estiver no diretório provavelmente não precise.
 
 npm init -y
 
@@ -53,7 +54,7 @@ Adicione o script de testes:
   "test": "jest"
 }
 
-Defina o tipo de módulo para permitir import/export:
+Defina o tipo de módulo para permitir import/export no final do objeto:
 "type": "module"
 
 ✅ Rodando os Testes
