@@ -26,8 +26,9 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 source ~/.bashrc
 
 # Instalar e usar uma versão do Node
-nvm install --lts
-nvm use --lts
+nvm install --lts          "EU USO A V18.20 --LTS"
+OU PODEM VISITAR ESSE SITE: https://www.treinaweb.com.br/blog/instalando-e-gerenciando-varias-versoes-do-node-js-com-nvm
+
 2. Clone o repositório
 git clone https://github.com/seu-usuario/seu-repo.git
 cd exercicio_strings
