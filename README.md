@@ -81,7 +81,12 @@ Jest
 
 🧑‍💻 Autor
 Feito por Jaeder de Carvalho Azevedo
-Contato: LinkedIn | GitHub
+Contato: https://linkedin.com/in/jaeder-azevedo | GitHub: @zxb360
 
 📜 Licença
 Este projeto está licenciado sob a MIT [License].
+MIT License
+
+Copyright (c) 2025 Jaeder de Carvalho Azevedo
+
+
